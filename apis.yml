@@ -33,6 +33,8 @@ maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/curtiss-wright-corporation
   - type: Website
     url: https://www.curtisswright.com
   - type: Defense Solutions
