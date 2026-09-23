@@ -1,7 +1,9 @@
 ---
 title: Curtiss-Wright debuts GPU module for graphics, video ...
 url: https://skiesmag.com/press-releases/curtiss-wright-debuts-gpu-module-for-graphics-video-processing-and-ai-ml-at-the-tactical-edge/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Curtiss-Wright" press release artificial intelligence'
 position: 5
 source: serpapi-google

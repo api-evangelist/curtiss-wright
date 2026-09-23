@@ -1,7 +1,9 @@
 ---
 title: Artificial Intelligence
 url: https://defense-solutions.curtisswright.com/capabilities/applications/artificial-intelligence
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Curtiss-Wright" press release artificial intelligence'
 position: 4
 source: serpapi-google
